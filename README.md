@@ -5,3 +5,4 @@ This quantum theory model is a work of fiction, serving as a generic and abstrac
 However, discussions considering alignment and consistency with prevailing theories are highly encouraged and welcomed. Negative feedback and critical opinions are invaluable and considered of utmost importance for the further development and refinement of this theoretical model.
 
 Please be open to discussion.
+https://github.com/brief69/Magnetic_Quantum_Models/discussions/2
